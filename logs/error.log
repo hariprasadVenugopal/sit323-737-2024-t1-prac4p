@@ -1,0 +1,10 @@
+{"level":"error","message":"Division by zero is not possible","service":"calculator-microservice"}
+{"level":"error","message":"num1 is incorrectly defined","service":"calculator-microservice"}
+{"level":"error","message":"num2 is incorrectly defined","service":"calculator-microservice"}
+{"level":"error","message":"num2 is incorrectly defined","service":"calculator-microservice"}
+{"level":"error","message":"num1 is incorrectly defined","service":"calculator-microservice"}
+{"level":"error","message":"num1 is incorrectly defined","service":"calculator-microservice"}
+{"level":"error","message":"num2 is incorrectly defined","service":"calculator-microservice"}
+{"level":"error","message":"num2 is incorrectly defined","service":"calculator-microservice"}
+{"level":"error","message":"num1 is incorrectly defined","service":"calculator-microservice"}
+{"level":"error","message":"Division by zero is not possible","service":"calculator-microservice"}

@@ -1,0 +1,13 @@
+{"level":"info","message":"New division operation requested : 1/0.","service":"calculator-microservice"}
+{"level":"error","message":"Division by zero is not possible","service":"calculator-microservice"}
+{"level":"error","message":"num1 is incorrectly defined","service":"calculator-microservice"}
+{"level":"error","message":"num2 is incorrectly defined","service":"calculator-microservice"}
+{"level":"error","message":"num2 is incorrectly defined","service":"calculator-microservice"}
+{"level":"error","message":"num1 is incorrectly defined","service":"calculator-microservice"}
+{"level":"info","message":"New multiplication operation requested : 2*2.","service":"calculator-microservice"}
+{"level":"info","message":"New subtraction operation requested : 2-2.","service":"calculator-microservice"}
+{"level":"error","message":"num1 is incorrectly defined","service":"calculator-microservice"}
+{"level":"error","message":"num2 is incorrectly defined","service":"calculator-microservice"}
+{"level":"error","message":"num2 is incorrectly defined","service":"calculator-microservice"}
+{"level":"error","message":"num1 is incorrectly defined","service":"calculator-microservice"}
+{"level":"info","message":"New addition operation requested : 1+1.","service":"calculator-microservice"}
